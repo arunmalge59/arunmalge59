@@ -84,15 +84,7 @@ Created a **real-time cab booking platform** with **Socket.io live tracking**, r
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunmalge59&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunmalge59&theme=tokyonight" />
-</p>
 
 ---
 
