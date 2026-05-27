@@ -96,4 +96,4 @@ Created a **real-time cab booking platform** with **Socket.io live tracking**, r
 
 💻 LeetCode: https://leetcode.com/u/Arunmalge2003/
 
-📧 Email: arunmalge20004@gmail.com
+📧 Email: arunmalge59@gmail.com
